@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+.cardcontainer{
+	
+    padding: 20px;
+    width: 300px;
+ margin:50px auto;
+    
+}
+h1{
+    margin-top: 5px;
+    text-align: center;
+}
+.cardcontainer>img{
+
+    width: 300px;
+    height: 200px:
+}
+p{
+    font-size: larger;
+    font-weight: 600;
+}
+
+button{
+    margin: 3px;
+    padding: 10px;
+    color: white;
+    border: none;
+    background-color: palevioletred;
+}
